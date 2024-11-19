@@ -1,0 +1,27 @@
+Menu:
+1. Tambah Data
+2. Ubah Data
+3. Hapus Data
+4. Tampilkan Data
+5. Cari Data
+6. Keluar
+Pilih menu (1-6): 1
+Masukkan nama mahasiswa: afatih
+Masukkan nilai tugas: 80
+Masukkan nilai UTS: 85
+Masukkan nilai UAS: 90
+Data untuk Andi berhasil ditambahkan.
+
+Menu:
+1. Tambah Data
+2. Ubah Data
+3. Hapus Data
+4. Tampilkan Data
+5. Cari Data
+6. Keluar
+Pilih menu (1-6): 4
+
+Daftar Nilai Mahasiswa:
+Nama                 Tugas      UTS        UAS        Nilai Akhir    
+-----------------------------------------------------------------
+Andi                 80.0       85.0       90.0       85.25
