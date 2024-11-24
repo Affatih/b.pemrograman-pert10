@@ -1,27 +1,47 @@
-Menu:
-1. Tambah Data
-2. Ubah Data
-3. Hapus Data
-4. Tampilkan Data
-5. Cari Data
-6. Keluar
-Pilih menu (1-6): 1
-Masukkan nama mahasiswa: afatih
-Masukkan nilai tugas: 80
-Masukkan nilai UTS: 85
-Masukkan nilai UAS: 90
-Data untuk Andi berhasil ditambahkan.
 
-Menu:
-1. Tambah Data
-2. Ubah Data
-3. Hapus Data
-4. Tampilkan Data
-5. Cari Data
-6. Keluar
-Pilih menu (1-6): 4
+# OUTPUT
+```
+Tambah Data
+NIM: 312410135
+Nama: habib fatih zanjabilah
+Nilai Tugas: 90
+Nilai UTS: 95
+Nilai UAS: 100
+Data berhasil ditambahkan!
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+Tambah Data
+NIM: 312410135
+Nama: habib fatih zanjabilah
+Nilai Tugas: 90
+Nilai UTS: 95
+Nilai UAS: 100
+Data berhasil ditambahkan!
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+Nilai UAS: 100
+Data berhasil ditambahkan!
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+=================================================================================
+Daftar Nilai
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+=================================================================================
+  1  |habib fatih zanjabilah|312410135 |     90.0    |   95.0   |  100.0   |  95.25    |
+=================================================================================
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] :   
+```
 
-Daftar Nilai Mahasiswa:
-Nama                 Tugas      UTS        UAS        Nilai Akhir    
------------------------------------------------------------------
-Andi                 80.0       85.0       90.0       85.25
+
+
+
+
