@@ -112,7 +112,7 @@ while True:
         print("Pilihan tidak valid!")
 ```
 
-OUTPUT
+# OUTPUT
 
 ```
 Nama: habib fatih zanjabilah
@@ -143,5 +143,9 @@ Daftar Nilai
 =================================================================================
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] :
 ```
+
+git add <flochart.png.drawio>
+
+
 
 
