@@ -111,3 +111,37 @@ while True:
     else:
         print("Pilihan tidak valid!")
 ```
+
+OUTPUT
+
+```
+Nama: habib fatih zanjabilah
+Nilai Tugas: 90
+Nilai UTS: 95
+Nilai UAS: 100
+Data berhasil ditambahkan!
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+Nilai UAS: 100
+Data berhasil ditambahkan!
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] : l
+Daftar Nilai
+=================================================================================
+Daftar Nilai
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+  No |      Nama     |   NIM    | Nilai Tugas |Nilai UTS |Nilai UAS |Nilai Akhir|
+=================================================================================
+=================================================================================
+  1  |habib fatih zanjabilah|312410135 |     90.0    |   95.0   |  100.0   |  95.25    |
+=================================================================================
+[(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] :
+```
+
+
