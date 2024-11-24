@@ -144,7 +144,7 @@ Daftar Nilai
 [(L)ihat (T)ambah (U)bah (H)apus (C)ari (K)eluar] :
 ```
 
-git add <flochart.png.drawio>
+git add <Diagram_dictionary.drawio>
 
 
 
